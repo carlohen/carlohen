@@ -1,8 +1,8 @@
 ## Olá! Sou Carlos 👋
 
-- 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas  
-- 💻 Desenvolvedor com foco em aplicações Web  
-- 🚀 Trabalhando com Next.js, React, Java (Spring Boot)  
+- 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas 
+- 💻 Desenvolvedor com foco em aplicações Full Stack  
+- 🚀 Trabalhando com Next.js, React, Node, MySql  
 
 ### 🛠️ Tecnologias que utilizo
 
